@@ -1,0 +1,21 @@
+Raesfeld 		Raesfeld
+Flughafen		Airport
+Berlin			Berlin
+Bratwurst		bratwurst
+Hauptstrasse		Main road
+Brot			loaf
+Gauss			Gauss
+Klimaanlage		air conditioning
+Rammstein		Rammstein
+Musik			music
+Porsche			Porsche
+BMW			BMW
+Biergarten		Biergarten
+Ratskeller		Ratskeller
+Dirndel			Dirndel
+Lederhose		leather pants
+Audi			Audi
+Schloss			lock
+Munich			Munich
+wettbewerbsfaehig	competitive
+Mehlhase		Mehlhase
